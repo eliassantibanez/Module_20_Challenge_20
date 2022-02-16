@@ -14,9 +14,14 @@ This application uses the following libraries:
 
 ## Screenshots
 Index 4 and Index 1 are the two accounts that are used for the example. See screenshots below on transaction activity
-
+*Account View*
 ![](https://github.com/eliassantibanez/Module_20_Challenge_20/blob/main/Screenshots/Screen%20Shot%202022-02-16%20at%2011.44.38%20AM.png "account view")
+
+
+*Transaction View*
 ![](https://github.com/eliassantibanez/Module_20_Challenge_20/blob/main/Screenshots/Screen%20Shot%202022-02-16%20at%2011.44.47%20AM.png "transaction information")
+
+*Metamask Description View*
 ![](https://github.com/eliassantibanez/Module_20_Challenge_20/blob/main/Screenshots/Screen%20Shot%202022-02-16%20at%2011.53.17%20AM.png "MetaMask Description of transaction")
 ---
 
